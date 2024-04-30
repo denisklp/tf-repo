@@ -9,7 +9,7 @@ variable "GOOGLE_REGION" {
   description = "GCP region to use"
 }
 
-variable "GKE_NUM_NODES" {
-  type        = number
-  description = "Number of nodes"
-}
+# variable "GKE_NUM_NODES" {
+#   type        = number
+#   description = "Number of nodes"
+# }
